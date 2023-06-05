@@ -6,7 +6,7 @@ API Used: https://github.com/Prajwakene/Codieal.github.io.git
 Hosting Link: https://prajwakene.github.io/Codieal.github.io/
 
 
-we came a long a way 
-setting up the Scslable MVC structure
-#Atuthenication using passpost.js
-#SASS
+##we came a long a way 
+##setting up the Scslable MVC structure
+##Atuthenication using passpost.js
+##SASS
